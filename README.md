@@ -1,4 +1,5 @@
 # NimDRM
+###### Was presented at NorthSec 2023, available on [Youtube](https://www.youtube.com/live/hslR6hE7fS8?feature=share&t=12063)
 <p align="center">
     <img width="500" src="https://github.com/OffenseTeacher/NimDRM/blob/main/NimDRM.gif">
 </p>
